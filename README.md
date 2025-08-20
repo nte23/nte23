@@ -8,7 +8,7 @@ On GitHub you’ll mostly find my **personal projects**, experiments, and smart 
 ## 🔧 Current Projects
 - **VU 1 Dial App** → mainly vibe coding a small app to connect VU 1 Dials to Home Assistant and more  
 
-Warning: mostly vibe coded with claude, I'm learning coding as I go, please dont trust "my" stuff :)
+Warning: mostly vibe coded with claude, I'm learning coding as I go, please dont trust "my" code and verify everything yourself :)
 
 ---
 

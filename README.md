@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Niels
 
-<!--
-**nte23/nte23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚖️ I'm a Legal project manager turned builder — exploring how **AI, automation, and smart systems** can make life and work simpler.  
+On GitHub you’ll mostly find my **personal projects**, experiments, and smart home builds.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Projects
+- **VU 1 Dial App** → mainly vibe coding a small app to connect VU 1 Dials to Home Assistant and more  
+
+Warning: mostly vibe coded with claude, I"m learning coding as I go, please dont trust my stuff :)
+
+---
+
+## 🌱 Personal Builds
+- **AI-first Smart Home** → presence detection, dashboards, local AI servers  
+- **iOS Apps** → push-up tracker with Apple Health integration  
+
+
+---
+
+## 🛠️ Tech I Use
+Python · React · Streamlit · Swift · Docker · SQLite · UniFi · Home Assistant · Ollama · MCP servers  
+
+---
+
+## ✨ Outside of Code
+Exploring aviation ✈️, fitness 🏃, and creating a smart living space that feels “magical but practical.”  
+
+---

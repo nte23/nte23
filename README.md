@@ -7,9 +7,8 @@ On GitHub you’ll mostly find my **personal projects**, experiments, and smart 
 
 
 ## 🔧 Current Projects
-- **Better VU 1 Dials** → mainly vibe coding a small app to connect VU 1 Dials to Home Assistant and more  
+- **Better VU 1 Dials** → a small web app to connect VU 1 Dials to Home Assistant and more  
 
-Warning: mostly vibe coded with claude, I'm learning coding as I go, please dont trust "my" code and verify everything yourself :)
 
 
 
@@ -27,6 +26,6 @@ Python · React · Streamlit · Swift · Docker · SQLite · UniFi · Home Assis
 
 
 ## ✨ Outside of Code
-Exploring aviation, fitness and interior design  
+Exploring aviation, fitness, plants and interior design  
 
 

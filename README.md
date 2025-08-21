@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Niels
 
-⚖️ I'm a Legal project manager turned builder — exploring how **AI, automation, and smart systems** can make life and work simpler.  
+⚖️ I'm a Paralegal and Legal project manager who loves to tinker, especially exploring how **AI, automation, and smart systems** can make life and work simpler.  
 On GitHub you’ll mostly find my **personal projects**, experiments, and smart home builds.
 
 
 
 ## 🔧 Current Projects
-- **VU 1 Dial App** → mainly vibe coding a small app to connect VU 1 Dials to Home Assistant and more  
+- **Better VU 1 Dials** → mainly vibe coding a small app to connect VU 1 Dials to Home Assistant and more  
 
 Warning: mostly vibe coded with claude, I'm learning coding as I go, please dont trust "my" code and verify everything yourself :)
 
@@ -14,7 +14,8 @@ Warning: mostly vibe coded with claude, I'm learning coding as I go, please dont
 
 ## 🌱 Personal Builds
 - **AI-first Smart Home** → presence detection, dashboards, local AI servers  
-- **iOS Apps** → push-up tracker with Apple Health integration  
+- **iOS Apps** → push-up tracker with Apple Health integration
+- Trying to integrate an AI powered smart home setup with my retro futurism / space age interior design
 
 
 
@@ -25,6 +26,6 @@ Python · React · Streamlit · Swift · Docker · SQLite · UniFi · Home Assis
 
 
 ## ✨ Outside of Code
-Exploring aviation ✈️, fitness 🏃, and creating a smart living space that feels “magical but practical.”  
+Exploring aviation, fitness and interior design  
 
 

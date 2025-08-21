@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Niels
 
-⚖️ I'm a Paralegal and Legal project manager who loves to tinker, especially exploring how **AI, automation, and smart systems** can make life and work simpler.  
+⚖️ I'm a Paralegal and Legal project manager who loves to tinker, especially exploring how **AI, automation, and smart systems** can make life and work simpler.
+
 On GitHub you’ll mostly find my **personal projects**, experiments, and smart home builds.
 
 
